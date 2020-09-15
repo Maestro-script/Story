@@ -1,0 +1,1 @@
+This is the first time I open Notepad via Terminal and without using mouse.
