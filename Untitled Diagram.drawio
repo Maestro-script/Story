@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T02:14:21.504Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="4VI_vBw0ictgNVsqSEMK" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-25T02:16:16.659Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="qDTQ-Kt2XLqoKVam1r0L" version="13.7.5" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -108,6 +108,9 @@
         </mxCell>
         <mxCell id="72UNQaQtU82CDFyThiPd-36" value="git checkout app" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="990" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="72UNQaQtU82CDFyThiPd-37" value="&lt;h1&gt;&lt;span&gt;GIT&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;&amp;nbsp;FOR LOCAL REPOSITORY&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="110" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
