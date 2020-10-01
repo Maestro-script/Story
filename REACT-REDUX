@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-01T03:54:08.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Ya4H_6KTBW66xz3Gi96c" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-01T03:57:56.439Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="fZy8oO5QbPveU_40jaZG" version="13.7.6" type="github">
   <diagram id="gaGosJboPMsXqbGD-05c" name="Page-1">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -43,19 +43,22 @@
           <mxGeometry x="365" y="570" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dUy_STZedWxCOp5y1wtG-14" value="function welcome (props) {&lt;br&gt;return &amp;lt;h1&amp;gt;Hello, {props.name}&amp;lt;/h1&amp;gt;&lt;br&gt;};" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="50" y="550" width="230" height="50" as="geometry" />
+          <mxGeometry x="50" y="540" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dUy_STZedWxCOp5y1wtG-15" value="const element = &amp;lt;h1&amp;gt;Hello World!&amp;lt;/h1&amp;gt;&lt;br&gt;ReactDOM.render(element, document.getElementById(&#39;root&quot;)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="60" y="450" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dUy_STZedWxCOp5y1wtG-16" value="class welcome extends React.Component {&lt;br&gt;render() {&lt;br&gt;return &amp;lt;h1&amp;gt;Hello, {this.props.name}&amp;lt;/h1&amp;gt;&lt;br&gt;};" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry y="650" width="280" height="60" as="geometry" />
+          <mxGeometry x="5" y="620" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dUy_STZedWxCOp5y1wtG-17" value="Functional Component" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="70" y="520" width="150" height="40" as="geometry" />
+          <mxGeometry x="70" y="510" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dUy_STZedWxCOp5y1wtG-18" value="Class Based Component" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="60" y="620" width="150" height="40" as="geometry" />
+          <mxGeometry x="60" y="590" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c3y54M3g_wnwUIUR400Q-3" value="&amp;lt;welcome&amp;gt;Hello World!&amp;lt;/welcome&amp;gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="76" y="700" width="214" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
