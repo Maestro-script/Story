@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-01T04:01:49.097Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="5zG4RPshZOOiYL_un1HS" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-01T04:04:21.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="jM1Fl8Geekpd4yeZtmIC" version="13.7.6" type="github">
   <diagram id="gaGosJboPMsXqbGD-05c" name="Page-1">
-    <mxGraphModel dx="1958" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1736" dy="386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,6 +68,9 @@
         </mxCell>
         <mxCell id="c3y54M3g_wnwUIUR400Q-6" value="function welcome(props) {&lt;br&gt;return &amp;lt;div&amp;gt;{props.children}&amp;lt;/div&amp;gt;&lt;br&gt;};" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="76" y="760" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c3y54M3g_wnwUIUR400Q-7" value="class welcome extends React.Component {&lt;br&gt;render() {&lt;br&gt;return &amp;lt;div&amp;gt;{this.props.children}&amp;lt;/div&amp;gt;&lt;br&gt;};" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="76" y="850" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
