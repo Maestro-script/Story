@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-01T04:04:21.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="jM1Fl8Geekpd4yeZtmIC" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-01T04:08:19.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="uyCIAD-Fe-QQfq4iBp1K" version="13.7.6" type="github">
   <diagram id="gaGosJboPMsXqbGD-05c" name="Page-1">
     <mxGraphModel dx="1736" dy="386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -30,8 +30,19 @@
         <mxCell id="dUy_STZedWxCOp5y1wtG-7" value="ELEMENT&lt;br&gt;#&quot;Building blocks of the react app&quot;&lt;br&gt;#&quot;It&#39;s what appears on browser/screen&quot;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="450" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dUy_STZedWxCOp5y1wtG-8" value="PROPERTY (PROPS)&lt;br&gt;#&quot;Inputs for components&quot;&lt;br&gt;#&quot;They are data passed form parent component to children component&quot;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="365" y="710" width="170" height="80" as="geometry" />
+        <mxCell id="c3y54M3g_wnwUIUR400Q-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.279;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dUy_STZedWxCOp5y1wtG-8" target="c3y54M3g_wnwUIUR400Q-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3y54M3g_wnwUIUR400Q-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dUy_STZedWxCOp5y1wtG-8" target="c3y54M3g_wnwUIUR400Q-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3y54M3g_wnwUIUR400Q-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="dUy_STZedWxCOp5y1wtG-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dUy_STZedWxCOp5y1wtG-8" value="PROPERTY (PROPS)&lt;br&gt;#&quot;Inputs for components&quot;&lt;br&gt;#&quot;They are data passed form parent component to children component&quot;&lt;br&gt;#&quot;It consist of props. and props.children" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="710" width="185" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dUy_STZedWxCOp5y1wtG-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dUy_STZedWxCOp5y1wtG-13" target="dUy_STZedWxCOp5y1wtG-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -70,7 +81,7 @@
           <mxGeometry x="76" y="760" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c3y54M3g_wnwUIUR400Q-7" value="class welcome extends React.Component {&lt;br&gt;render() {&lt;br&gt;return &amp;lt;div&amp;gt;{this.props.children}&amp;lt;/div&amp;gt;&lt;br&gt;};" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="76" y="850" width="220" height="60" as="geometry" />
+          <mxGeometry x="76" y="840" width="220" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
