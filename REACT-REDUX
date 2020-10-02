@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-01T22:52:26.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Bey2g2M0Fub7-SSQrazl" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-02T03:20:32.897Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="IbKuAuLGpTUcgR0FHvgh" version="13.7.7" type="github">
   <diagram id="gaGosJboPMsXqbGD-05c" name="Page-1">
     <mxGraphModel dx="1958" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -83,8 +83,11 @@
         <mxCell id="c3y54M3g_wnwUIUR400Q-7" value="class welcome extends React.Component {&lt;br&gt;render() {&lt;br&gt;return &amp;lt;div&amp;gt;{this.props.children}&amp;lt;/div&amp;gt;&lt;br&gt;};" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="76" y="840" width="220" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6ADgXeMLCHhuamjXRBxa-2" value="&lt;b&gt;STATE&lt;/b&gt;&amp;nbsp;&lt;br&gt;#&quot;Inputs for components&quot;&lt;br&gt;#&quot;They are &lt;b&gt;MUTABLE DATA&lt;/b&gt; data (variabel, value, function) managed internally by their own components &quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="372.5" y="950" width="185" height="100" as="geometry" />
+        <mxCell id="6ADgXeMLCHhuamjXRBxa-2" value="&lt;b&gt;STATE&lt;/b&gt;&amp;nbsp;&lt;br&gt;#&quot;Inputs for components&quot;&lt;br&gt;#&quot;They are &lt;b&gt;MUTABLE DATA&lt;/b&gt; data (variabel, value, function) managed internally by their own components &quot;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="900" width="185" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7Kc0KyRrRkg7KZLw8FZe-1" value="&lt;b&gt;LIFECYCLE&lt;/b&gt;&amp;nbsp;&lt;br&gt;#&quot;Inputs for components&quot;&lt;br&gt;#&quot;They are &lt;b&gt;MUTABLE DATA&lt;/b&gt; data (variabel, value, function) managed internally by their own components &quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1040" width="185" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
