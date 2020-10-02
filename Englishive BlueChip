@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-02T23:48:52.479Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="aJ3OY57RDSOBNBM8IFmO" version="13.7.7" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2020-10-02T23:50:42.864Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="toOHzKwlcb9AaFtHWzEZ" version="13.7.7" type="github" pages="12">
   <diagram id="9b9af0f3-0c6f-d2d3-bf29-a8bb58f7ff91" name="001 - process">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -52,16 +52,16 @@
           <mxGeometry x="261.25" y="430" width="268.75" height="100" as="geometry" />
         </mxCell>
         <mxCell id="10" value="Englishive send email to users to maintain relation, show progress, and ask feedback" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" parent="1" vertex="1">
-          <mxGeometry x="735" y="560" width="295" height="120" as="geometry" />
+          <mxGeometry x="712.5" y="420" width="295" height="120" as="geometry" />
         </mxCell>
         <mxCell id="12" value="Users click on link in email to provide feedback" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" parent="1" vertex="1">
-          <mxGeometry x="720" y="470" width="280" height="60" as="geometry" />
+          <mxGeometry x="720" y="320" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="14" value="Englishive tabulate feedback" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" parent="1" vertex="1">
-          <mxGeometry x="710" y="380" width="280" height="60" as="geometry" />
+          <mxGeometry x="710" y="200" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="16" value="Englishive can see activities report of all users responses" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" parent="1" vertex="1">
-          <mxGeometry x="690" y="220" width="300" height="80" as="geometry" />
+          <mxGeometry x="670" y="30" width="300" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6Jy2UJo2S5uULV8Q5k_l-18" value="Users try a free demo course or leveling test" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" vertex="1" parent="1">
           <mxGeometry x="272.5" y="170" width="220" height="90" as="geometry" />
@@ -70,7 +70,7 @@
           <mxGeometry x="261.25" y="290" width="247.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BE0iVcLSjJ9EtKgGVUqH-16" value="Users learn courses, see progress and some features" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" vertex="1" parent="1">
-          <mxGeometry x="242.5" y="690" width="267.5" height="70" as="geometry" />
+          <mxGeometry x="726.25" y="610" width="267.5" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
