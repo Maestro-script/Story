@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-02T23:51:17.509Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="oA3kHJYi7eDWu7IPKRsE" version="13.7.7" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2020-10-02T23:57:52.116Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="FxZIMIb46CNwvO04SgSY" version="13.7.7" type="github" pages="12">
   <diagram id="9b9af0f3-0c6f-d2d3-bf29-a8bb58f7ff91" name="001 - process">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -43,34 +43,64 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="User signs up via Google OAuth,&lt;br&gt;Facebook OAuth and UserName" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" parent="1" vertex="1">
-          <mxGeometry x="272.5" y="30" width="225" height="110" as="geometry" />
+          <mxGeometry x="300" y="40" width="225" height="110" as="geometry" />
         </mxCell>
         <mxCell id="4" value="Users pay for courses debits/credits via stripe/Doku/Midtrans" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" parent="1" vertex="1">
-          <mxGeometry x="262.5" y="580" width="247.5" height="80" as="geometry" />
+          <mxGeometry x="271.25" y="680" width="247.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6" value="Users become premium members and subscribe a new annual paid course" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" parent="1" vertex="1">
-          <mxGeometry x="261.25" y="430" width="268.75" height="100" as="geometry" />
+          <mxGeometry x="250" y="520" width="268.75" height="100" as="geometry" />
         </mxCell>
         <mxCell id="10" value="Englishive send email to users to maintain relation, show progress, and ask feedback" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" parent="1" vertex="1">
-          <mxGeometry x="712.5" y="420" width="295" height="120" as="geometry" />
+          <mxGeometry x="602.5" y="520" width="295" height="120" as="geometry" />
         </mxCell>
         <mxCell id="12" value="Users click on link in email to provide feedback" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" parent="1" vertex="1">
-          <mxGeometry x="720" y="320" width="280" height="60" as="geometry" />
+          <mxGeometry x="600" y="364" width="280" height="66" as="geometry" />
         </mxCell>
         <mxCell id="14" value="Englishive tabulate feedback" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" parent="1" vertex="1">
-          <mxGeometry x="710" y="200" width="280" height="60" as="geometry" />
+          <mxGeometry x="600" y="200" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="16" value="Englishive can see activities report of all users responses" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" parent="1" vertex="1">
-          <mxGeometry x="670" y="30" width="300" height="80" as="geometry" />
+          <mxGeometry x="600" y="40" width="300" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6Jy2UJo2S5uULV8Q5k_l-18" value="Users try a free demo course or leveling test" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" vertex="1" parent="1">
-          <mxGeometry x="272.5" y="170" width="220" height="90" as="geometry" />
+          <mxGeometry x="300" y="200" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6Jy2UJo2S5uULV8Q5k_l-21" value="Users become prospects in list building and remarketing campaign" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" vertex="1" parent="1">
-          <mxGeometry x="261.25" y="290" width="247.5" height="100" as="geometry" />
+          <mxGeometry x="277.5" y="364" width="247.5" height="106" as="geometry" />
         </mxCell>
         <mxCell id="BE0iVcLSjJ9EtKgGVUqH-16" value="Users learn courses, see progress and some features" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" vertex="1" parent="1">
-          <mxGeometry x="726.25" y="610" width="267.5" height="70" as="geometry" />
+          <mxGeometry x="602.5" y="680" width="267.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pMHqxVPdz2dCvUimf5LS-17" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="pMHqxVPdz2dCvUimf5LS-18" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="200" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pMHqxVPdz2dCvUimf5LS-19" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="364" width="167.5" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="pMHqxVPdz2dCvUimf5LS-20" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="520" width="167.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pMHqxVPdz2dCvUimf5LS-21" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="103.75" y="680" width="167.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pMHqxVPdz2dCvUimf5LS-22" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="680" width="167.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pMHqxVPdz2dCvUimf5LS-23" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="520" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pMHqxVPdz2dCvUimf5LS-24" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="364" width="170" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="pMHqxVPdz2dCvUimf5LS-25" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="200" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pMHqxVPdz2dCvUimf5LS-26" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="40" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
