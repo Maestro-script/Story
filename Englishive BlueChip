@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-02T22:21:05.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="q_GGUkJSInPnqTYQ4MP6" version="13.7.7" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2020-10-02T23:39:26.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Ve3LAl3e5-oGMRZS_vXY" version="13.7.7" type="github" pages="12">
   <diagram id="9b9af0f3-0c6f-d2d3-bf29-a8bb58f7ff91" name="001 - process">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeWidth=3;fontSize=22;fontColor=#050505;" parent="1" source="2" target="3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2" value="Clients use Englishive" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" parent="1" vertex="1">
+        <mxCell id="2" value="Users use Englishive" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" parent="1" vertex="1">
           <mxGeometry x="370" y="200" width="235" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeWidth=3;fontSize=22;fontColor=#050505;" parent="1" source="3" target="5" edge="1">
@@ -19,7 +19,7 @@
         <mxCell id="8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeWidth=3;fontSize=22;fontColor=#050505;" parent="1" source="5" target="7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="Send customer an email requesting feedback" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" parent="1" vertex="1">
+        <mxCell id="5" value="Send users an email requesting feedback" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" parent="1" vertex="1">
           <mxGeometry x="358" y="413" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#000000;strokeWidth=3;fontSize=22;fontColor=#050505;" parent="1" source="7" target="9" edge="1">
@@ -42,50 +42,35 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeWidth=3;fontSize=22;fontColor=#050505;" parent="1" source="2" target="4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="2" value="User signs up via Google OAuth,&lt;br&gt;Facebook OAuth and UserName" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" parent="1" vertex="1">
+          <mxGeometry x="272.5" y="30" width="225" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="2" value="User signs up via Google OAuth" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" parent="1" vertex="1">
-          <mxGeometry x="285" y="90" width="200" height="60" as="geometry" />
+        <mxCell id="4" value="Users pay for courses debits/credits via stripe/Doku/Midtrans" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" parent="1" vertex="1">
+          <mxGeometry x="262.5" y="580" width="247.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeWidth=3;fontSize=22;fontColor=#050505;" parent="1" source="4" target="6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4" value="User pays for email credits via stripe" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" parent="1" vertex="1">
-          <mxGeometry x="285" y="190" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeWidth=3;fontSize=22;fontColor=#050505;" parent="1" source="6" target="8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6" value="User creates a new &#39;campaign&#39;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" parent="1" vertex="1">
-          <mxGeometry x="285" y="290" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeWidth=3;fontSize=22;fontColor=#050505;" parent="1" source="8" target="10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="6" value="Users become premium members and subscribe a new annual paid course" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" parent="1" vertex="1">
+          <mxGeometry x="261.25" y="430" width="268.75" height="100" as="geometry" />
         </mxCell>
         <mxCell id="8" value="User enters list of emails to send survey to" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" parent="1" vertex="1">
-          <mxGeometry x="260" y="390" width="250" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeWidth=3;fontSize=22;fontColor=#050505;" parent="1" source="10" target="12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="220" y="760" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="10" value="We send email to list of surveyees" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" parent="1" vertex="1">
-          <mxGeometry x="260" y="490" width="250" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeWidth=3;fontSize=22;fontColor=#050505;" parent="1" source="12" target="14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="490" y="820" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="12" value="Surveyees click on link in email to provide feedback" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" parent="1" vertex="1">
-          <mxGeometry x="590" y="490" width="280" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeWidth=3;fontSize=22;fontColor=#050505;" parent="1" source="14" target="16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="750" y="570" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="14" value="We tabulate feedback" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" parent="1" vertex="1">
-          <mxGeometry x="590" y="390" width="280" height="60" as="geometry" />
+          <mxGeometry x="710" y="380" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="16" value="User can see report of all survey responses" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" parent="1" vertex="1">
-          <mxGeometry x="590" y="290" width="280" height="60" as="geometry" />
+          <mxGeometry x="690" y="220" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Jy2UJo2S5uULV8Q5k_l-18" value="Users try a free demo course or leveling test" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" vertex="1" parent="1">
+          <mxGeometry x="272.5" y="170" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6Jy2UJo2S5uULV8Q5k_l-21" value="Users become prospects in list building and remarketing campaign" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" vertex="1" parent="1">
+          <mxGeometry x="261.25" y="290" width="247.5" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
