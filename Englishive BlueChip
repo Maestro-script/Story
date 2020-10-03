@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-03T04:07:45.223Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="PMoaqADH9cRQR8ogA0PH" version="13.7.7" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2020-10-03T05:42:39.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="QtCFh1JFxteKY6oZaYei" version="13.7.7" type="github" pages="13">
   <diagram id="9b9af0f3-0c6f-d2d3-bf29-a8bb58f7ff91" name="001 - process">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -465,7 +465,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="7d4fe464-d79d-dfa3-210c-8d41ad9f7e55" name="009 - mockup landing page">
+  <diagram id="7d4fe464-d79d-dfa3-210c-8d41ad9f7e55" name="009 - landing page">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -605,7 +605,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="ace512de-f4e6-7c6d-7343-b43797e24565" name="010 - mockup dashboard">
+  <diagram id="ace512de-f4e6-7c6d-7343-b43797e24565" name="010 - dashboard">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -670,7 +670,45 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="2300255b-73bc-a1ea-6a19-d89fce08810f" name="011 - mockup create">
+  <diagram name=" 011 - register" id="57bmdOp8nDx2S1Uj3PW2">
+    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="onEqXT2AeJpWaxlm7G9m-0" />
+        <mxCell id="onEqXT2AeJpWaxlm7G9m-1" parent="onEqXT2AeJpWaxlm7G9m-0" />
+        <mxCell id="onEqXT2AeJpWaxlm7G9m-2" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;fillColor=#ffffff;strokeColor=#666666;mainText=,;recursiveResize=0;rounded=0;fontSize=22;fontColor=#050505;" vertex="1" parent="onEqXT2AeJpWaxlm7G9m-1">
+          <mxGeometry x="160" y="120" width="710" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="onEqXT2AeJpWaxlm7G9m-3" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="onEqXT2AeJpWaxlm7G9m-2">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="onEqXT2AeJpWaxlm7G9m-4" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="onEqXT2AeJpWaxlm7G9m-2">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="onEqXT2AeJpWaxlm7G9m-8" value="+" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=42;fontColor=#050505;align=center;" vertex="1" parent="onEqXT2AeJpWaxlm7G9m-2">
+          <mxGeometry x="620" y="435" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="onEqXT2AeJpWaxlm7G9m-11" value="I want to learn..." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=22;fontColor=#050505;" vertex="1" parent="onEqXT2AeJpWaxlm7G9m-2">
+          <mxGeometry x="130" y="250" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="onEqXT2AeJpWaxlm7G9m-22" value="&lt;b&gt;TOEFL&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="onEqXT2AeJpWaxlm7G9m-2">
+          <mxGeometry x="80" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="onEqXT2AeJpWaxlm7G9m-30" value="&lt;b&gt;IELTS&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="onEqXT2AeJpWaxlm7G9m-2">
+          <mxGeometry x="470" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="onEqXT2AeJpWaxlm7G9m-29" value="&lt;b&gt;General English&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="onEqXT2AeJpWaxlm7G9m-2">
+          <mxGeometry x="280" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="onEqXT2AeJpWaxlm7G9m-16" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" vertex="1" parent="onEqXT2AeJpWaxlm7G9m-1">
+          <mxGeometry x="160" y="230" width="710" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="onEqXT2AeJpWaxlm7G9m-17" value="Englishive" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=22;fontColor=#050505;" vertex="1" parent="onEqXT2AeJpWaxlm7G9m-1">
+          <mxGeometry x="190" y="250" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2300255b-73bc-a1ea-6a19-d89fce08810f" name="011 - lesson">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -798,7 +836,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="92b866f1-a5c4-e316-105e-9783bbfee3fe" name="012 - mockup billing">
+  <diagram id="92b866f1-a5c4-e316-105e-9783bbfee3fe" name="012 - billing">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
