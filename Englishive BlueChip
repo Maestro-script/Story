@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-03T05:51:23.755Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="jhk83MC4kY65R_32Jmo-" version="13.7.7" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2020-10-03T05:51:51.289Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="k10A7YuElCiXXZxdDZfO" version="13.7.7" type="github" pages="14">
   <diagram id="9b9af0f3-0c6f-d2d3-bf29-a8bb58f7ff91" name="001 - process">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -751,6 +751,9 @@
         </mxCell>
         <mxCell id="YDH8KrnR3ahT3GFQ8XFp-16" value="&lt;b&gt;Lowongan Kerja&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YDH8KrnR3ahT3GFQ8XFp-2">
           <mxGeometry x="530" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YDH8KrnR3ahT3GFQ8XFp-17" value="Lanjutkan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YDH8KrnR3ahT3GFQ8XFp-2">
+          <mxGeometry x="130" y="480" width="450" height="25" as="geometry" />
         </mxCell>
         <mxCell id="YDH8KrnR3ahT3GFQ8XFp-10" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" vertex="1" parent="YDH8KrnR3ahT3GFQ8XFp-1">
           <mxGeometry x="160" y="230" width="710" height="60" as="geometry" />
