@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-03T03:26:48.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Tmry4EWP-3-rV7iUyxDs" version="13.7.7" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2020-10-03T03:56:50.543Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="kvBKGadsqWvvBnpF7U84" version="13.7.7" type="github" pages="12">
   <diagram id="9b9af0f3-0c6f-d2d3-bf29-a8bb58f7ff91" name="001 - process">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -547,6 +547,36 @@
         </mxCell>
         <mxCell id="ASZV3DkvNNsHtJUPwPfU-30" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Gamification poured into every lesson&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="810" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ASZV3DkvNNsHtJUPwPfU-31" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1010" width="550" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="ASZV3DkvNNsHtJUPwPfU-32" value="Image" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1045" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ASZV3DkvNNsHtJUPwPfU-33" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1045" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ASZV3DkvNNsHtJUPwPfU-34" value="&lt;h1&gt;Upgrade Your English Now!&lt;/h1&gt;&lt;p&gt;Lorem ipsum &lt;b&gt;DISKON&lt;/b&gt;, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="525" y="1045" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ASZV3DkvNNsHtJUPwPfU-35" value="&lt;b&gt;CTA Button&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1180" width="260" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ASZV3DkvNNsHtJUPwPfU-36" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1220" width="550" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="ASZV3DkvNNsHtJUPwPfU-37" value="Image" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1260" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ASZV3DkvNNsHtJUPwPfU-38" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="1240" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ASZV3DkvNNsHtJUPwPfU-39" value="&lt;h1&gt;Test Your English Now!&lt;/h1&gt;&lt;p&gt;Lorem ipsum &lt;b&gt;DISKON&lt;/b&gt;, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1240" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ASZV3DkvNNsHtJUPwPfU-40" value="&lt;b&gt;SIgnIn/SignUp Button&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1375" width="260" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
