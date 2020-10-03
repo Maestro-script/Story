@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-03T06:00:00.742Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="vgmXTGB9RBSYpv82cymZ" version="13.7.7" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2020-10-03T06:02:30.810Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="LnaA5QNi1xe2VFfhMuaX" version="13.7.7" type="github" pages="14">
   <diagram id="9b9af0f3-0c6f-d2d3-bf29-a8bb58f7ff91" name="001 - process">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -769,9 +769,6 @@
         </mxCell>
         <mxCell id="YDH8KrnR3ahT3GFQ8XFp-20" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="YDH8KrnR3ahT3GFQ8XFp-18">
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="YDH8KrnR3ahT3GFQ8XFp-21" value="+" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=42;fontColor=#050505;align=center;" vertex="1" parent="YDH8KrnR3ahT3GFQ8XFp-18">
-          <mxGeometry x="620" y="435" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YDH8KrnR3ahT3GFQ8XFp-22" value="Good job! Sekarang pilih target harianmu." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=22;fontColor=#050505;" vertex="1" parent="YDH8KrnR3ahT3GFQ8XFp-18">
           <mxGeometry x="150" y="220" width="430" height="20" as="geometry" />
