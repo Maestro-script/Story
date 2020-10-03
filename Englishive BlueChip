@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-02T23:57:52.116Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="FxZIMIb46CNwvO04SgSY" version="13.7.7" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2020-10-03T00:06:19.052Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="p6inIiMDLgE3AOEMv3lD" version="13.7.7" type="github" pages="12">
   <diagram id="9b9af0f3-0c6f-d2d3-bf29-a8bb58f7ff91" name="001 - process">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -72,19 +72,19 @@
         <mxCell id="BE0iVcLSjJ9EtKgGVUqH-16" value="Users learn courses, see progress and some features" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" vertex="1" parent="1">
           <mxGeometry x="602.5" y="680" width="267.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="pMHqxVPdz2dCvUimf5LS-17" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="pMHqxVPdz2dCvUimf5LS-17" value="&lt;span style=&quot;color: rgb(5 , 5 , 5) ; font-size: 22px ; text-align: left&quot;&gt;Express server + MongoDB + PassportJS&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="40" width="150" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="pMHqxVPdz2dCvUimf5LS-18" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="pMHqxVPdz2dCvUimf5LS-18" value="&lt;span style=&quot;color: rgb(5 , 5 , 5) ; text-align: left&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;React + Redux + H5P + MonggoDB&lt;/font&gt;&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="200" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="pMHqxVPdz2dCvUimf5LS-19" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="pMHqxVPdz2dCvUimf5LS-19" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Mailchimp/Sendgrid + GoogleAds+FB Ads&lt;/b&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="110" y="364" width="167.5" height="106" as="geometry" />
         </mxCell>
         <mxCell id="pMHqxVPdz2dCvUimf5LS-20" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="520" width="167.5" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="pMHqxVPdz2dCvUimf5LS-21" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="pMHqxVPdz2dCvUimf5LS-21" value="&lt;span style=&quot;color: rgb(5 , 5 , 5) ; font-size: 22px ; text-align: left&quot;&gt;Stripe/Doku/&lt;br&gt;Midtrans+ MongoDB&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="103.75" y="680" width="167.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pMHqxVPdz2dCvUimf5LS-22" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
