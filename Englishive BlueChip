@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-03T06:09:19.556Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="0iFQtHktJDvsKnWgFkFT" version="13.7.7" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2020-10-03T06:18:03.544Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="LgGLliIo1GUokMAZ0DfV" version="13.7.7" type="github" pages="14">
   <diagram id="9b9af0f3-0c6f-d2d3-bf29-a8bb58f7ff91" name="001 - process">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -812,7 +812,7 @@
         <mxCell id="s9Svb3erFgkKnjuAV5ST-0" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;fillColor=#ffffff;strokeColor=#666666;mainText=,;recursiveResize=0;rounded=0;fontSize=22;fontColor=#050505;" vertex="1" parent="YDH8KrnR3ahT3GFQ8XFp-1">
           <mxGeometry x="1760" y="120" width="780" height="550" as="geometry" />
         </mxCell>
-        <mxCell id="s9Svb3erFgkKnjuAV5ST-1" value="Page 2" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="s9Svb3erFgkKnjuAV5ST-0">
+        <mxCell id="s9Svb3erFgkKnjuAV5ST-1" value="Page 3" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="s9Svb3erFgkKnjuAV5ST-0">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
         </mxCell>
         <mxCell id="s9Svb3erFgkKnjuAV5ST-2" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="s9Svb3erFgkKnjuAV5ST-0">
@@ -835,6 +835,36 @@
         </mxCell>
         <mxCell id="s9Svb3erFgkKnjuAV5ST-18" value="&lt;b&gt;G&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="s9Svb3erFgkKnjuAV5ST-0">
           <mxGeometry x="230" y="352.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s9Svb3erFgkKnjuAV5ST-19" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;fillColor=#ffffff;strokeColor=#666666;mainText=,;recursiveResize=0;rounded=0;fontSize=22;fontColor=#050505;" vertex="1" parent="YDH8KrnR3ahT3GFQ8XFp-1">
+          <mxGeometry x="2640" y="80" width="780" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="s9Svb3erFgkKnjuAV5ST-20" value="Page 3" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="s9Svb3erFgkKnjuAV5ST-19">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="s9Svb3erFgkKnjuAV5ST-21" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="s9Svb3erFgkKnjuAV5ST-19">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="s9Svb3erFgkKnjuAV5ST-22" value="Pilih jalurmu" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=22;fontColor=#050505;" vertex="1" parent="s9Svb3erFgkKnjuAV5ST-19">
+          <mxGeometry x="260" y="150" width="135" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s9Svb3erFgkKnjuAV5ST-25" value="&lt;span&gt;Baru pertama kali belajar Bahasa Inggris?&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="s9Svb3erFgkKnjuAV5ST-19">
+          <mxGeometry x="60" y="250" width="320" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="s9Svb3erFgkKnjuAV5ST-27" value="&lt;b&gt;Image&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="s9Svb3erFgkKnjuAV5ST-19">
+          <mxGeometry x="180" y="263" width="72.5" height="72.5" as="geometry" />
+        </mxCell>
+        <mxCell id="s9Svb3erFgkKnjuAV5ST-28" value="Mulai dari awal!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="s9Svb3erFgkKnjuAV5ST-19">
+          <mxGeometry x="130" y="360" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s9Svb3erFgkKnjuAV5ST-29" value="&lt;span&gt;Sudah mengerti sedikit Bahasa Inggris?&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="s9Svb3erFgkKnjuAV5ST-19">
+          <mxGeometry x="410" y="250" width="320" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="s9Svb3erFgkKnjuAV5ST-30" value="&lt;b&gt;Image&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="s9Svb3erFgkKnjuAV5ST-19">
+          <mxGeometry x="533.75" y="260" width="72.5" height="72.5" as="geometry" />
+        </mxCell>
+        <mxCell id="s9Svb3erFgkKnjuAV5ST-31" value="Cari tahu levelmu disini!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="s9Svb3erFgkKnjuAV5ST-19">
+          <mxGeometry x="490" y="360" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
