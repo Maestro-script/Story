@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-03T03:56:50.543Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="kvBKGadsqWvvBnpF7U84" version="13.7.7" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2020-10-03T04:07:45.223Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="PMoaqADH9cRQR8ogA0PH" version="13.7.7" type="github" pages="12">
   <diagram id="9b9af0f3-0c6f-d2d3-bf29-a8bb58f7ff91" name="001 - process">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -577,6 +577,30 @@
         </mxCell>
         <mxCell id="ASZV3DkvNNsHtJUPwPfU-40" value="&lt;b&gt;SIgnIn/SignUp Button&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="1375" width="260" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ASZV3DkvNNsHtJUPwPfU-41" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1430" width="550" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="ASZV3DkvNNsHtJUPwPfU-42" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Start your learning journey now.&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="1470" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ASZV3DkvNNsHtJUPwPfU-43" value="Get Started Button" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1460" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ASZV3DkvNNsHtJUPwPfU-44" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1520" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ASZV3DkvNNsHtJUPwPfU-45" value="&lt;h1&gt;About us&lt;/h1&gt;&lt;p&gt;Lorem ipsum, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1510" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ASZV3DkvNNsHtJUPwPfU-46" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1520" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ASZV3DkvNNsHtJUPwPfU-47" value="&lt;h1&gt;Contact&lt;/h1&gt;&lt;p&gt;Lorem ipsum, &lt;b&gt;Email, PT, Office Address&lt;/b&gt;, adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="565" y="1520" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ASZV3DkvNNsHtJUPwPfU-48" value="social Media: Facebook Instagram Youtube" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1650" width="340" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
