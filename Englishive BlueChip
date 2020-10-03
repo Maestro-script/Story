@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-03T05:42:39.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="QtCFh1JFxteKY6oZaYei" version="13.7.7" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2020-10-03T05:51:23.755Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="jhk83MC4kY65R_32Jmo-" version="13.7.7" type="github" pages="14">
   <diagram id="9b9af0f3-0c6f-d2d3-bf29-a8bb58f7ff91" name="001 - process">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -703,6 +703,59 @@
           <mxGeometry x="160" y="230" width="710" height="60" as="geometry" />
         </mxCell>
         <mxCell id="onEqXT2AeJpWaxlm7G9m-17" value="Englishive" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=22;fontColor=#050505;" vertex="1" parent="onEqXT2AeJpWaxlm7G9m-1">
+          <mxGeometry x="190" y="250" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="012 - welcome" id="y9ep63gwliMxl_SVWrcj">
+    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="YDH8KrnR3ahT3GFQ8XFp-0" />
+        <mxCell id="YDH8KrnR3ahT3GFQ8XFp-1" parent="YDH8KrnR3ahT3GFQ8XFp-0" />
+        <mxCell id="YDH8KrnR3ahT3GFQ8XFp-2" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;fillColor=#ffffff;strokeColor=#666666;mainText=,;recursiveResize=0;rounded=0;fontSize=22;fontColor=#050505;" vertex="1" parent="YDH8KrnR3ahT3GFQ8XFp-1">
+          <mxGeometry x="160" y="120" width="710" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="YDH8KrnR3ahT3GFQ8XFp-3" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="YDH8KrnR3ahT3GFQ8XFp-2">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YDH8KrnR3ahT3GFQ8XFp-4" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="YDH8KrnR3ahT3GFQ8XFp-2">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YDH8KrnR3ahT3GFQ8XFp-5" value="+" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=42;fontColor=#050505;align=center;" vertex="1" parent="YDH8KrnR3ahT3GFQ8XFp-2">
+          <mxGeometry x="620" y="435" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YDH8KrnR3ahT3GFQ8XFp-6" value="Why do you learn English?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=22;fontColor=#050505;" vertex="1" parent="YDH8KrnR3ahT3GFQ8XFp-2">
+          <mxGeometry x="220" y="210" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YDH8KrnR3ahT3GFQ8XFp-7" value="&lt;b&gt;Latihan Otak&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YDH8KrnR3ahT3GFQ8XFp-2">
+          <mxGeometry x="50" y="245" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YDH8KrnR3ahT3GFQ8XFp-8" value="&lt;b&gt;Keluarga &amp;amp; Teman&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YDH8KrnR3ahT3GFQ8XFp-2">
+          <mxGeometry x="380" y="245" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YDH8KrnR3ahT3GFQ8XFp-9" value="&lt;b&gt;Perjalanan&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YDH8KrnR3ahT3GFQ8XFp-2">
+          <mxGeometry x="220" y="245" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YDH8KrnR3ahT3GFQ8XFp-12" value="&lt;b&gt;Sekolah&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YDH8KrnR3ahT3GFQ8XFp-2">
+          <mxGeometry x="530" y="245" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YDH8KrnR3ahT3GFQ8XFp-13" value="&lt;b&gt;Kuliah&amp;nbsp;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YDH8KrnR3ahT3GFQ8XFp-2">
+          <mxGeometry x="50" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YDH8KrnR3ahT3GFQ8XFp-14" value="&lt;b&gt;Bisnis&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YDH8KrnR3ahT3GFQ8XFp-2">
+          <mxGeometry x="220" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YDH8KrnR3ahT3GFQ8XFp-15" value="&lt;b&gt;Pekerjaan&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YDH8KrnR3ahT3GFQ8XFp-2">
+          <mxGeometry x="380" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YDH8KrnR3ahT3GFQ8XFp-16" value="&lt;b&gt;Lowongan Kerja&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YDH8KrnR3ahT3GFQ8XFp-2">
+          <mxGeometry x="530" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YDH8KrnR3ahT3GFQ8XFp-10" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#080808;strokeWidth=2;fillColor=none;fontSize=22;fontColor=#050505;align=center;" vertex="1" parent="YDH8KrnR3ahT3GFQ8XFp-1">
+          <mxGeometry x="160" y="230" width="710" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YDH8KrnR3ahT3GFQ8XFp-11" value="Englishive" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=22;fontColor=#050505;" vertex="1" parent="YDH8KrnR3ahT3GFQ8XFp-1">
           <mxGeometry x="190" y="250" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
