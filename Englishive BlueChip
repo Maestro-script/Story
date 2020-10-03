@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-03T00:06:19.052Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="p6inIiMDLgE3AOEMv3lD" version="13.7.7" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2020-10-03T00:08:11.542Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="_iL6dW6Yoam8OJcbjAq_" version="13.7.7" type="github" pages="12">
   <diagram id="9b9af0f3-0c6f-d2d3-bf29-a8bb58f7ff91" name="001 - process">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -87,7 +87,7 @@
         <mxCell id="pMHqxVPdz2dCvUimf5LS-21" value="&lt;span style=&quot;color: rgb(5 , 5 , 5) ; font-size: 22px ; text-align: left&quot;&gt;Stripe/Doku/&lt;br&gt;Midtrans+ MongoDB&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="103.75" y="680" width="167.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pMHqxVPdz2dCvUimf5LS-22" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="pMHqxVPdz2dCvUimf5LS-22" value="&lt;span style=&quot;color: rgb(5 , 5 , 5) ; font-size: 18px ; text-align: left&quot;&gt;React + Redux + H5P + MonggoDB&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="680" width="167.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pMHqxVPdz2dCvUimf5LS-23" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
