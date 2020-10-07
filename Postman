@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T22:10:50.383Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" version="13.7.7" etag="1-eOMJD4_JxbHaFxep1R" type="github"><diagram id="F8-a_YE-eCFfVq7OeedO">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-07T23:41:58.791Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="-N4T7Ijz2wmgbWNJdV8V" version="13.7.7" type="github" pages="7">
+  <diagram id="nMXSlKe0hLYDR7d4CHLZ" name="Getting Started">
+    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="jiXhjLiU1NLw_tJwwfvh-0" />
+        <mxCell id="jiXhjLiU1NLw_tJwwfvh-1" parent="jiXhjLiU1NLw_tJwwfvh-0" />
+        <mxCell id="jiXhjLiU1NLw_tJwwfvh-3" value="&lt;span&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Sending first request&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="jiXhjLiU1NLw_tJwwfvh-1">
+          <mxGeometry x="80" y="80" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jiXhjLiU1NLw_tJwwfvh-4" value="&lt;font&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;GET&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;(HTTP Method to RETRIEVE data from an API)&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jiXhjLiU1NLw_tJwwfvh-1">
+          <mxGeometry x="35" y="170" width="325" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jiXhjLiU1NLw_tJwwfvh-7" value="&lt;font&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;POST&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;(HTTP Method to SEND new data to an API)&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jiXhjLiU1NLw_tJwwfvh-1">
+          <mxGeometry x="47.5" y="260" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jiXhjLiU1NLw_tJwwfvh-8" value="&lt;font&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;PATCH &amp;amp; PUT&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;(HTTP Method to UPDATE existing data)&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jiXhjLiU1NLw_tJwwfvh-1">
+          <mxGeometry x="15" y="340" width="365" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jiXhjLiU1NLw_tJwwfvh-9" value="&lt;font&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;DELETE&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;(HTTP Method to REMOVE existing data)&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jiXhjLiU1NLw_tJwwfvh-1">
+          <mxGeometry x="20" y="430" width="355" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="F8-a_YE-eCFfVq7OeedO" name="Making Request">
+    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="nB-kt7mSra_Iw78fibPY" name="Testing APIs">
+    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="UqRokO632McWnbswpRTX-0" />
+        <mxCell id="UqRokO632McWnbswpRTX-1" parent="UqRokO632McWnbswpRTX-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7Uqaq3K03qrwTK46aPIt" name="Build &amp; Manage APIs">
+    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="6zj-gY6eOJ8MkOrQdO8S-0" />
+        <mxCell id="6zj-gY6eOJ8MkOrQdO8S-1" parent="6zj-gY6eOJ8MkOrQdO8S-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="YLT_meZlJzznQ2SjWQPN" name="Publish APIs">
+    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="Da9q8d5UqoKM2w21n3DC-0" />
+        <mxCell id="Da9q8d5UqoKM2w21n3DC-1" parent="Da9q8d5UqoKM2w21n3DC-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="YqfedVabATQvPZKy8D3L" name="Team Collaboration">
+    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="qRaSOpZg9c2hYDRxxjAW-0" />
+        <mxCell id="qRaSOpZg9c2hYDRxxjAW-1" parent="qRaSOpZg9c2hYDRxxjAW-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="DJFvQ5lxsmmKzRwOYU3S" name="Developing with Postman">
+    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="z-e2RMPeU2z_GyTXBW75-0" />
+        <mxCell id="z-e2RMPeU2z_GyTXBW75-1" parent="z-e2RMPeU2z_GyTXBW75-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
