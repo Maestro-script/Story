@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T13:03:40.006Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="3E9M5ASObteq5-JXngjL" version="13.7.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-10-07T13:44:27.419Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="nmjhhEcMIViWh4EWy1KW" version="13.7.7" type="github" pages="9">
   <diagram id="3sUrEy6kXFcaORkciZcT" name="Create+CLI">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -251,6 +251,77 @@
         </mxCell>
         <mxCell id="vIBndOg3rZAd2ft_43iY-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Services&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vIBndOg3rZAd2ft_43iY-1">
           <mxGeometry x="490" y="260" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="j1swxiIt0kvPL3EqrsC0" name="Plugin &amp; Admin Customization">
+    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="3hCGZTKFws1kRAaOg29N-0" />
+        <mxCell id="3hCGZTKFws1kRAaOg29N-1" parent="3hCGZTKFws1kRAaOg29N-0" />
+        <mxCell id="3hCGZTKFws1kRAaOg29N-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Customization of Admin Panel&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3hCGZTKFws1kRAaOg29N-1">
+          <mxGeometry x="500" y="220" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3hCGZTKFws1kRAaOg29N-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Customization of Plugins&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bb%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2018px%26quot%3B%26gt%3BCustomization%20of%20Admin%20Panel%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fb%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22500%22%20y%3D%22220%22%20width%3D%22310%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3hCGZTKFws1kRAaOg29N-1">
+          <mxGeometry x="500" y="320" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3hCGZTKFws1kRAaOg29N-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Customization the customization&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bb%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2018px%26quot%3B%26gt%3BCustomization%20of%20Admin%20Panel%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fb%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22500%22%20y%3D%22220%22%20width%3D%22310%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3hCGZTKFws1kRAaOg29N-1">
+          <mxGeometry x="500" y="430" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3hCGZTKFws1kRAaOg29N-5" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Route&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3hCGZTKFws1kRAaOg29N-1">
+          <mxGeometry x="170" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3hCGZTKFws1kRAaOg29N-6" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Database&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3hCGZTKFws1kRAaOg29N-1">
+          <mxGeometry x="170" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3hCGZTKFws1kRAaOg29N-7" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Policy&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3hCGZTKFws1kRAaOg29N-1">
+          <mxGeometry x="170" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3hCGZTKFws1kRAaOg29N-8" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Controller&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3hCGZTKFws1kRAaOg29N-1">
+          <mxGeometry x="170" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3hCGZTKFws1kRAaOg29N-9" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Service&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3hCGZTKFws1kRAaOg29N-1">
+          <mxGeometry x="170" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3hCGZTKFws1kRAaOg29N-10" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Query&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3hCGZTKFws1kRAaOg29N-1">
+          <mxGeometry x="170" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3hCGZTKFws1kRAaOg29N-14" value="" style="endArrow=classic;html=1;" edge="1" parent="3hCGZTKFws1kRAaOg29N-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="270" as="sourcePoint" />
+            <mxPoint x="300" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3hCGZTKFws1kRAaOg29N-15" value="" style="endArrow=classic;html=1;" edge="1" parent="3hCGZTKFws1kRAaOg29N-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="360" as="sourcePoint" />
+            <mxPoint x="300" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3hCGZTKFws1kRAaOg29N-16" value="" style="endArrow=classic;html=1;" edge="1" parent="3hCGZTKFws1kRAaOg29N-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="450" as="sourcePoint" />
+            <mxPoint x="300" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3hCGZTKFws1kRAaOg29N-17" value="" style="endArrow=classic;html=1;" edge="1" parent="3hCGZTKFws1kRAaOg29N-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="550" as="sourcePoint" />
+            <mxPoint x="300" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="580" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
