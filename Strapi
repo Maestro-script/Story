@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T14:25:58.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="tEEqW_QDcQ8IJLG8s_Q7" version="13.7.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2020-10-07T14:39:04.338Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="NsitBaVVU8AJKP2FnROd" version="13.7.7" type="github" pages="11">
   <diagram id="3sUrEy6kXFcaORkciZcT" name="Create+CLI">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -321,6 +321,29 @@
         </mxCell>
         <mxCell id="QuwO8_36cvJnGZy9JvLZ-5" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Making requests to the Strapi back-end&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="QuwO8_36cvJnGZy9JvLZ-1">
           <mxGeometry x="330" y="-100" width="370" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="te6dbyLSGCStz2aLuhSE" name="App Customization">
+    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="VJq23q5U-LSZcGa6UPGN-0" />
+        <mxCell id="VJq23q5U-LSZcGa6UPGN-1" parent="VJq23q5U-LSZcGa6UPGN-0" />
+        <mxCell id="VJq23q5U-LSZcGa6UPGN-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Application Customization&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="VJq23q5U-LSZcGa6UPGN-1">
+          <mxGeometry x="450" y="50" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VJq23q5U-LSZcGa6UPGN-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Policies&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="VJq23q5U-LSZcGa6UPGN-1">
+          <mxGeometry x="450" y="140" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VJq23q5U-LSZcGa6UPGN-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;CRON Tasks&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="VJq23q5U-LSZcGa6UPGN-1">
+          <mxGeometry x="450" y="230" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VJq23q5U-LSZcGa6UPGN-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;MIddlewares&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="VJq23q5U-LSZcGa6UPGN-1">
+          <mxGeometry x="450" y="320" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VJq23q5U-LSZcGa6UPGN-6" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Hooks&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="VJq23q5U-LSZcGa6UPGN-1">
+          <mxGeometry x="450" y="414" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
