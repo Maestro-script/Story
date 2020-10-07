@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T08:56:15.232Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="zKq6tpzvRd-4Zz1TWZ6M" version="13.7.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-10-07T08:56:37.891Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="2FXQMAZv9G53fxeVIfqO" version="13.7.7" type="github" pages="4">
   <diagram id="3sUrEy6kXFcaORkciZcT" name="Create+CLI">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -139,10 +139,10 @@
         <mxCell id="KqF9V5ShHnLy9VwEkDT1-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Navigate and customize List View&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KqF9V5ShHnLy9VwEkDT1-1">
           <mxGeometry x="80" y="320" width="230" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KqF9V5ShHnLy9VwEkDT1-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Adding content to collection type&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KqF9V5ShHnLy9VwEkDT1-1">
-          <mxGeometry x="400" y="320" width="230" height="80" as="geometry" />
+        <mxCell id="KqF9V5ShHnLy9VwEkDT1-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Adding content to collection types&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KqF9V5ShHnLy9VwEkDT1-1">
+          <mxGeometry x="400" y="320" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KqF9V5ShHnLy9VwEkDT1-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Adding content to single type&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KqF9V5ShHnLy9VwEkDT1-1">
+        <mxCell id="KqF9V5ShHnLy9VwEkDT1-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Adding content to single types&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KqF9V5ShHnLy9VwEkDT1-1">
           <mxGeometry x="720" y="320" width="230" height="80" as="geometry" />
         </mxCell>
       </root>
