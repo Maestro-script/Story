@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T07:03:39.769Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="jVp2mp49zo7wsrxZD1_0" version="13.7.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-07T07:08:13.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="sKJCcH3tGo5APeEkpM-f" version="13.7.7" type="github" pages="2">
   <diagram id="3sUrEy6kXFcaORkciZcT" name="Create+CLI">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -71,6 +71,18 @@
         </mxCell>
         <mxCell id="e4mYwz_08dNFElHCq7VS-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;STRAPI ADMIN PANEL&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="e4mYwz_08dNFElHCq7VS-1">
           <mxGeometry x="485" y="80" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="e4mYwz_08dNFElHCq7VS-4" value="&lt;b&gt;Management of Administrator Accounts&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="e4mYwz_08dNFElHCq7VS-1">
+          <mxGeometry x="70" y="160" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e4mYwz_08dNFElHCq7VS-5" value="&lt;b&gt;Creation Data Structure through the CONTENT TYPES BUILDER&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="e4mYwz_08dNFElHCq7VS-1">
+          <mxGeometry x="370" y="160" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e4mYwz_08dNFElHCq7VS-7" value="&lt;b&gt;Management of PLUGINS&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="e4mYwz_08dNFElHCq7VS-1">
+          <mxGeometry x="660" y="160" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e4mYwz_08dNFElHCq7VS-8" value="&lt;b&gt;Different areas of General Settings&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="e4mYwz_08dNFElHCq7VS-1">
+          <mxGeometry x="939" y="160" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
