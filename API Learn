@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T06:03:22.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="W1iRFttbkRkEjbGIlCc-" version="13.7.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-08T06:06:48.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="q7yMnzSTYQj99wikS_ne" version="13.7.7" type="github" pages="2">
   <diagram id="D2jiibduFLDKBcl_-y_g" name="API-BigPicture">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
           <mxGeometry x="970" y="230" width="140" as="geometry" />
         </mxCell>
         <mxCell id="uDR-EfHrVIHu5TvdYnGE-25" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699153-icon-76-document-file-html-128.png;fillColor=#BFBFFF;" vertex="1" parent="uDR-EfHrVIHu5TvdYnGE-1">
-          <mxGeometry x="550" y="530" width="140" height="140" as="geometry" />
+          <mxGeometry x="550" y="530" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="uDR-EfHrVIHu5TvdYnGE-26" value="" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=api" vertex="1" parent="uDR-EfHrVIHu5TvdYnGE-1">
           <mxGeometry x="510" y="10" width="140" height="300" as="geometry" />
