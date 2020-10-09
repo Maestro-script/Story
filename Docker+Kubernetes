@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-10-09T07:01:59.598Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="2RuD5jxgvsj3rFO1Kl8b" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-09T07:02:36.217Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="P-7hZHYr5N5d1-2JcPd6" version="13.7.9" type="github">
   <diagram id="7AA3nQDE_sJLIA_0FgP9" name="Docker Why&amp;What">
-    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2277" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3Bj4Z2hysskfAYPKyEpM-2" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#9CA2FF;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="25" width="300" height="180" as="geometry" />
+        </mxCell>
         <mxCell id="3H5Ord261SnsYA7XNR0z-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="575" y="270" width="340" height="150" as="geometry" />
         </mxCell>
