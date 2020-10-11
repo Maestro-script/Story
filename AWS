@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-11T23:15:24.980Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="PB_-epvyG7UbK997inei" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-11T23:18:35.368Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="hS13ln_UF1oiTA6Pk2p3" version="13.7.9" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="AWS 5 Pillars ">
     <mxGraphModel dx="1108" dy="1309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -185,7 +185,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WMntDEDHvHpZi6_W-GuE-1798" value="CloudWatch" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF33;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="14" y="-240" width="150" height="60" as="geometry" />
+          <mxGeometry x="20" y="-220" width="144" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WMntDEDHvHpZi6_W-GuE-1799" value="CloudWatch Logs" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF33;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="180" y="-240" width="150" height="60" as="geometry" />
@@ -281,6 +281,24 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="830" as="sourcePoint" />
             <mxPoint x="855" y="-108" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMntDEDHvHpZi6_W-GuE-1827" value="CloudWatch Alarm" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF33;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="-100" width="144" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WMntDEDHvHpZi6_W-GuE-1828" value="CloudWatch Dashboard" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF33;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="-50" width="144" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WMntDEDHvHpZi6_W-GuE-1829" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;exitX=0.338;exitY=0.031;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WMntDEDHvHpZi6_W-GuE-1787">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="-10" as="sourcePoint" />
+            <mxPoint x="1090.99" y="-57.510000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMntDEDHvHpZi6_W-GuE-1830" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;exitX=0.578;exitY=-0.031;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1130.002" y="37.50600000000009" as="sourcePoint" />
+            <mxPoint x="1180.9899999999998" y="-9.999999999999993" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
