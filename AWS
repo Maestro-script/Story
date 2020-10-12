@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-12T02:21:55.703Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="iUTSU5VGGoRItevu0ODG" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-12T02:32:34.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="JxpSQQvoUsA0UHSMccIy" version="13.7.9" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="AWS 5 Pillars ">
     <mxGraphModel dx="1108" dy="1309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -374,6 +374,51 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1180" y="403.5" as="sourcePoint" />
             <mxPoint x="1232.75" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMntDEDHvHpZi6_W-GuE-1851" value="Encryption at Rest" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="580" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WMntDEDHvHpZi6_W-GuE-1852" value="Encryption at Transit" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="490" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WMntDEDHvHpZi6_W-GuE-1853" value="Application Load Balancer (ALB)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF33;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="390.5" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WMntDEDHvHpZi6_W-GuE-1854" value="Key Management Service (KMS)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF33;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="460" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WMntDEDHvHpZi6_W-GuE-1855" value="CloudTrail" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF33;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="530" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WMntDEDHvHpZi6_W-GuE-1857" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="959" y="519" as="sourcePoint" />
+            <mxPoint x="1010" y="519" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMntDEDHvHpZi6_W-GuE-1858" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1772" target="WMntDEDHvHpZi6_W-GuE-1851">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="940" y="570.5" as="sourcePoint" />
+            <mxPoint x="991" y="570.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMntDEDHvHpZi6_W-GuE-1859" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="WMntDEDHvHpZi6_W-GuE-1853">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1139" y="486" as="sourcePoint" />
+            <mxPoint x="1224" y="445.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMntDEDHvHpZi6_W-GuE-1860" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="WMntDEDHvHpZi6_W-GuE-1854">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1140" y="580" as="sourcePoint" />
+            <mxPoint x="1210" y="559" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMntDEDHvHpZi6_W-GuE-1862" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="WMntDEDHvHpZi6_W-GuE-1855">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1150" y="590" as="sourcePoint" />
+            <mxPoint x="1220" y="569" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
