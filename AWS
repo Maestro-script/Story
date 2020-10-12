@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-12T09:20:22.714Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="5fkEPfF02sHUucIYdGkp" version="13.7.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-12T09:27:23.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="w94k-3eo5PvSA9NdP9Hb" version="13.7.9" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="AWS 5 Pillars ">
     <mxGraphModel dx="3016" dy="1630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -507,6 +507,24 @@
         <mxCell id="iaBY-Qif05xWVpUPz14R-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Network&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;amazonember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; text-align: left&quot;&gt;deals with how your data moves around (e.g., content delivery network)&lt;/span&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#7EA6E0;" vertex="1" parent="iaBY-Qif05xWVpUPz14R-1">
           <mxGeometry x="245" y="360" width="290" height="290" as="geometry" />
         </mxCell>
+        <mxCell id="HC-T1QlR-p7G6Ke9bp8N-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.075;entryY=0.788;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="iaBY-Qif05xWVpUPz14R-1" source="iaBY-Qif05xWVpUPz14R-5" target="HC-T1QlR-p7G6Ke9bp8N-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HC-T1QlR-p7G6Ke9bp8N-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="iaBY-Qif05xWVpUPz14R-1" source="iaBY-Qif05xWVpUPz14R-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HC-T1QlR-p7G6Ke9bp8N-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="iaBY-Qif05xWVpUPz14R-1" source="iaBY-Qif05xWVpUPz14R-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="940" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HC-T1QlR-p7G6Ke9bp8N-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="iaBY-Qif05xWVpUPz14R-1" source="iaBY-Qif05xWVpUPz14R-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="iaBY-Qif05xWVpUPz14R-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Database&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;amazonember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; text-align: left&quot;&gt;deals with organized storage of data (e.g., relational database)&lt;/span&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#7EA6E0;" vertex="1" parent="iaBY-Qif05xWVpUPz14R-1">
           <mxGeometry x="680" y="340" width="240" height="240" as="geometry" />
         </mxCell>
@@ -594,6 +612,18 @@
         </mxCell>
         <mxCell id="HC-T1QlR-p7G6Ke9bp8N-32" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;S3 Glacier&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF99CC;" vertex="1" parent="iaBY-Qif05xWVpUPz14R-1">
           <mxGeometry x="960" y="-40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HC-T1QlR-p7G6Ke9bp8N-40" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Relational Database&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;" vertex="1" parent="iaBY-Qif05xWVpUPz14R-1">
+          <mxGeometry x="890" y="275" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HC-T1QlR-p7G6Ke9bp8N-44" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Non-Relational Database&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;" vertex="1" parent="iaBY-Qif05xWVpUPz14R-1">
+          <mxGeometry x="960" y="390" width="106" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="HC-T1QlR-p7G6Ke9bp8N-45" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Data Warehouse Solution&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;" vertex="1" parent="iaBY-Qif05xWVpUPz14R-1">
+          <mxGeometry x="940" y="510" width="106" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="HC-T1QlR-p7G6Ke9bp8N-46" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Data Indexing and Searching Solution&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;" vertex="1" parent="iaBY-Qif05xWVpUPz14R-1">
+          <mxGeometry x="774" y="600" width="106" height="106" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
