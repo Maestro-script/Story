@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-12T02:54:25.604Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="8nWDpdBLLEFp_F-xIlbN" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-12T03:52:44.949Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="c_jUvt0QRU84PnCrcKY1" version="13.7.9" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="AWS 5 Pillars ">
     <mxGraphModel dx="2277" dy="1309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -483,6 +483,45 @@
             <mxPoint x="390" y="545.75" as="sourcePoint" />
             <mxPoint x="434" y="520" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="HuX881V_Cpbk2SLz7p6A" name="4 Main Service Categories">
+    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="iaBY-Qif05xWVpUPz14R-0" />
+        <mxCell id="iaBY-Qif05xWVpUPz14R-1" parent="iaBY-Qif05xWVpUPz14R-0" />
+        <mxCell id="iaBY-Qif05xWVpUPz14R-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Compute&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;amazonember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; text-align: left&quot;&gt;deals with the service that will process your data (e.g., virtual machine)&lt;/span&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#7EA6E0;" vertex="1" parent="iaBY-Qif05xWVpUPz14R-1">
+          <mxGeometry x="270" y="50" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="iaBY-Qif05xWVpUPz14R-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Network&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;amazonember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; text-align: left&quot;&gt;deals with how your data moves around (e.g., content delivery network)&lt;/span&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#7EA6E0;" vertex="1" parent="iaBY-Qif05xWVpUPz14R-1">
+          <mxGeometry x="245" y="360" width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="iaBY-Qif05xWVpUPz14R-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Database&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;amazonember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; text-align: left&quot;&gt;deals with organized storage of data (e.g., relational database)&lt;/span&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#7EA6E0;" vertex="1" parent="iaBY-Qif05xWVpUPz14R-1">
+          <mxGeometry x="680" y="340" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="iaBY-Qif05xWVpUPz14R-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Storage&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;amazonember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; text-align: left&quot;&gt;deals with the static storage of data (e.g., object store)&lt;/span&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#7EA6E0;" vertex="1" parent="iaBY-Qif05xWVpUPz14R-1">
+          <mxGeometry x="660" y="40" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="iaBY-Qif05xWVpUPz14R-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="iaBY-Qif05xWVpUPz14R-1" source="iaBY-Qif05xWVpUPz14R-7" target="iaBY-Qif05xWVpUPz14R-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iaBY-Qif05xWVpUPz14R-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.043;entryY=0.739;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="iaBY-Qif05xWVpUPz14R-1" source="iaBY-Qif05xWVpUPz14R-7" target="iaBY-Qif05xWVpUPz14R-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iaBY-Qif05xWVpUPz14R-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.983;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="iaBY-Qif05xWVpUPz14R-1" source="iaBY-Qif05xWVpUPz14R-7" target="iaBY-Qif05xWVpUPz14R-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iaBY-Qif05xWVpUPz14R-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.914;entryY=0.207;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="iaBY-Qif05xWVpUPz14R-1" source="iaBY-Qif05xWVpUPz14R-7" target="iaBY-Qif05xWVpUPz14R-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iaBY-Qif05xWVpUPz14R-7" value="&lt;b style=&quot;font-size: 24px&quot;&gt;4 Main Service Categories&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#33FF33;" vertex="1" parent="iaBY-Qif05xWVpUPz14R-1">
+          <mxGeometry x="510" y="230" width="170" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
