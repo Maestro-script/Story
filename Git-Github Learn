@@ -1,20 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2020-10-20T03:27:36.047Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="Zywtv-ZTpTQdPDRnPfpV" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-20T03:50:52.095Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="_Zq20nxvkuwU_Iiu77L5" version="13.8.0" type="github">
   <diagram id="vZs636t-SCQXRqmSF2rU" name="Definition ">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sFC1xgD49GpJdD8xRebB-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="815" y="350" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sFC1xgD49GpJdD8xRebB-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="665" y="350" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sFC1xgD49GpJdD8xRebB-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="517.5" y="350" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sFC1xgD49GpJdD8xRebB-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="500" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sFC1xgD49GpJdD8xRebB-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="500" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sFC1xgD49GpJdD8xRebB-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="500" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sFC1xgD49GpJdD8xRebB-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="500" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sFC1xgD49GpJdD8xRebB-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="350" width="125" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="sFC1xgD49GpJdD8xRebB-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="575" y="155" width="235" height="140" as="geometry" />
+          <mxGeometry x="570" y="160" width="235" height="140" as="geometry" />
         </mxCell>
         <mxCell id="sFC1xgD49GpJdD8xRebB-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="160" width="235" height="140" as="geometry" />
         </mxCell>
         <mxCell id="sFC1xgD49GpJdD8xRebB-2" value="&lt;h1&gt;Git&lt;/h1&gt;&lt;p&gt;&lt;b&gt;LOCAL/OFFLINE&lt;/b&gt; Distributed Version Control System located in local devices for tracking changes in source code during software development.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="252.5" y="170" width="210" height="120" as="geometry" />
+          <mxGeometry x="252.5" y="165" width="210" height="120" as="geometry" />
         </mxCell>
         <mxCell id="sFC1xgD49GpJdD8xRebB-5" value="&lt;h1&gt;GitHub&lt;/h1&gt;&lt;b&gt;REMOTE/ONLINE&amp;nbsp;&lt;/b&gt;&lt;span&gt;Distributed Version Control System located in local devices for tracking changes in source code during software development.&lt;/span&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="585" y="170" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="sFC1xgD49GpJdD8xRebB-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sFC1xgD49GpJdD8xRebB-7" value="&lt;h1&gt;Repo&lt;/h1&gt;&lt;p&gt;&lt;b&gt;Project folder.&lt;/b&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="350" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sFC1xgD49GpJdD8xRebB-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sFC1xgD49GpJdD8xRebB-9" value="&lt;h1&gt;Commit&lt;/h1&gt;&lt;p&gt;&lt;b&gt;Record/Snapshot of the repo.&lt;/b&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="350" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sFC1xgD49GpJdD8xRebB-10" value="&lt;h1&gt;Hash&lt;br&gt;&lt;/h1&gt;&lt;div&gt;mark (random number) of a commit&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sFC1xgD49GpJdD8xRebB-12" value="&lt;h1&gt;Checkout&lt;br&gt;&lt;/h1&gt;&lt;div&gt;Moving to a certain commit&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="524.5" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sFC1xgD49GpJdD8xRebB-13" value="&lt;h1&gt;Branch&lt;br&gt;&lt;/h1&gt;&lt;div&gt;Extension of a commit&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="350" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sFC1xgD49GpJdD8xRebB-14" value="&lt;h1&gt;Merge&lt;br&gt;&lt;/h1&gt;&lt;div&gt;unifying branches to master&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="355" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sFC1xgD49GpJdD8xRebB-15" value="&lt;h1&gt;Clone&lt;br&gt;&lt;/h1&gt;&lt;div&gt;Taking Repo form remotes&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sFC1xgD49GpJdD8xRebB-16" value="&lt;h1&gt;Pull&lt;br&gt;&lt;/h1&gt;&lt;div&gt;Taking Commit from Repo&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sFC1xgD49GpJdD8xRebB-17" value="&lt;h1&gt;Push&lt;br&gt;&lt;/h1&gt;&lt;div&gt;Sending Commit to Repo&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sFC1xgD49GpJdD8xRebB-18" value="&lt;h1&gt;Fork&lt;br&gt;&lt;/h1&gt;&lt;div&gt;unifying branches to master&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="685" y="500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sFC1xgD49GpJdD8xRebB-19" value="&lt;h1&gt;Remote&lt;br&gt;&lt;/h1&gt;&lt;div&gt;Sources that have repo (Github,Gitlab)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="500" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
